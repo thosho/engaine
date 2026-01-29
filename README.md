@@ -20,3 +20,7 @@ Download the specific models you need for the app below. Place these files in yo
 
 ### Vision Models
 * **Object Detection:** [**Download .task file**](PASTE_VISION_LINK_HERE)
+
+## ⚖️ License
+**Copyright © 2026 Thosho Tech.**
+This project is proprietary. You are free to download and use the APK, but you may not modify or redistribute the source code or models without permission.
