@@ -5,7 +5,7 @@ Welcome to the official download page for the app Engaine - Local AI Engine.
 ## 📱 App Download
 Click below to download the latest version of the Android App.
 
-[**⬇️ Download APK (v1.0.0)**](https://github.com/thosho/engaine/releases/download/v1.0/engaine.apk)
+[**⬇️ Download Engaine APK (v1.0.0)**](https://github.com/thosho/engaine/releases/download/v1.0/engaine.apk)
 
 ---
 
