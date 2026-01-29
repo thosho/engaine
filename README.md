@@ -9,17 +9,15 @@ Click below to download the latest version of the Android App.
 
 ---
 
-## 🧠 AI Models
+## 🧠 AI LLM Models
 Download the specific models you need for the app below. Place these files in your device's storage as required.
 
 ### Text-to-Speech Models
 | Model Name | Type | Size | Download |
 | :--- | :--- | :--- | :--- |
-| **English Fast** | `.bin` | 150MB | [**Download**](PASTE_BIN_LINK_HERE) |
-| **English High Quality** | `.task` | 300MB | [**Download**](PASTE_TASK_LINK_HERE) |
+| **LiteRt Community** | `.bin` `.task`  | Try Different models | [**Download**](https://huggingface.co/litert-community) |
+| **Gemma3-1B-IT** | `.task` | Try Diff Sizes | [**Download**](https://huggingface.co/litert-community/Gemma3-1B-IT/tree/main) |
 
-### Vision Models
-* **Object Detection:** [**Download .task file**](PASTE_VISION_LINK_HERE)
 
 ## ⚖️ License
 **Copyright © 2026 Thosho Tech.**
